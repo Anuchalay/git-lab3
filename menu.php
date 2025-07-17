@@ -1,4 +1,4 @@
 <?php
-    echo "This menu"
-    echo "Git subject"
+    echo "Home";
+    echo "Project"
 ?>
